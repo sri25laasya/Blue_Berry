@@ -1,0 +1,9 @@
+uvicorn[standard]
+pandas
+numpy
+seaborn
+matplotlib
+scikit-learn
+xgboost
+catboost
+lightgbm
